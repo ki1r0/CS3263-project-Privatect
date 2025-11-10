@@ -3,8 +3,8 @@
 <td width="180"><img src="asset/Logo.png" alt="Privatect logo" width="220"/></td>
 <td>
 
-# Privatect — On‑Device Privacy Studio  
-### Detect • Mask • Share — with confidence
+# Privatect — Your personal privacy protector
+### Detect • Mask • Share
 
 </td>
 </tr>
