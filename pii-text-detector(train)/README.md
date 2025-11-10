@@ -102,7 +102,7 @@ Below are examples showing the real-time PII detection capabilities of each mode
 
 **Input**: "My SSN is 123-45-6789 and my driver's license number is DL987654321. I was born on 03/15/1985 and I'm 38 years old."
 
-#### Ettin 1B Results
+#### DeBERTa Results
 
 ```
 🔍 SSN: '123-45-6789' (conf: 1.000)
