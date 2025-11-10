@@ -81,7 +81,7 @@ Below are examples showing the real-time PII detection capabilities of each mode
 
 **Input**: "Please charge my credit card 4532-1234-5678-9012, the CVV is 123. My account number is AC789012345 and routing number is 021000021."
 
-#### Ettin 1B Results
+#### DeBERTa Results
 
 ```
 🔍 CREDITCARDNUMBER: '4532-1234-5678-9012,' (conf: 0.898)
