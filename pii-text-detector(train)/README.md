@@ -49,7 +49,7 @@ Below are examples showing the real-time PII detection capabilities of each mode
 
 **Input**: "Hi, my name is John Smith and I live at 123 Main Street, New York. You can reach me at john.smith@email.com or call (555) 123-4567."
 
-#### Ettin 1B Results
+#### DeBERTa Results
 
 ```
 🔍 LASTNAME: 'Smith' (conf: 0.969)
